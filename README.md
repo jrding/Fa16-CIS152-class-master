@@ -19,3 +19,5 @@ Adding yet another line of something to create a conflict for me.
 I'm adding something else to create a conflict.
 
 At the end again
+
+Just add something else
