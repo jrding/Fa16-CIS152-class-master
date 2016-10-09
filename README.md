@@ -5,19 +5,3 @@ This GitHub repository contains notes, starter files, and other content for the 
 Access it: [https://github.com/jrding/Fa16-CIS152-class-master] (https://github.com/jrding/Fa16-CIS152-class-master)
 
 Name:
-
-This one should not create a conflict.
-
-Howard put something here.
-
-Howard is adding something else.
-
-Trying to create a conflict.
-
-Adding yet another line of something to create a conflict for me.
-
-I'm adding something else to create a conflict.
-
-At the end again
-
-Just add something else
