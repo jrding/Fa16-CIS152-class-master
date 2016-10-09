@@ -6,6 +6,8 @@ Access it: [https://github.com/jrding/Fa16-CIS152-class-master] (https://github.
 
 Name:
 
+This one should not create a conflict.
+
 Howard put something here.
 
 Howard is adding something else.
