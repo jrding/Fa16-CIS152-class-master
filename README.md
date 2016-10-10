@@ -13,14 +13,7 @@ Access it: [https://github.com/jrding/Fa16-CIS152-class-master] (https://github.
 
 Name:Bryna Zhao
 
-<<<<<<< HEAD
-
-
-
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-Name:
+Name: Second try.
 
 
 
@@ -34,7 +27,7 @@ Name:
 
 
 
-
+Well I guess I can do it one more time since we are waiting...
 
 
 
