@@ -11,3 +11,67 @@ EMILEE ODENDAAL
 William Jordan
 Robert M WilburII
 Shane Kelton
+=======
+Greg Weitekamp
+=======
+Name: Second try.
+>>>>>>> origin/master
+
+Name: Justin Klett, Destroyer of Worlds, First of His Line
+
+
+
+
+
+
+
+
+
+
+
+
+
+Well I guess I can do it one more time since we are waiting...HELLO!!
+nope not here...
+
+
+
+
+
+
+
+>>>>>>> origin/master
+Hello my name is god
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kledis Kumbulla <!Doctype html>
+>>>>>>> origin/master
