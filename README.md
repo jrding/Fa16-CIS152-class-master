@@ -14,6 +14,7 @@ Access it: [https://github.com/jrding/Fa16-CIS152-class-master] (https://github.
 Name:Bryna Zhao
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -22,6 +23,9 @@ Name:Bryna Zhao
 <<<<<<< HEAD
 Name:
 EMILEE ODENDAAL
+=======
+Name: Second try.
+>>>>>>> origin/master
 
 
 
