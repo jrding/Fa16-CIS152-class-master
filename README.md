@@ -24,6 +24,7 @@ Name:Bryna Zhao
 <<<<<<< HEAD
 Name:
 EMILEE ODENDAAL
+Greg Weitekamp
 =======
 Name: Second try.
 >>>>>>> origin/master
